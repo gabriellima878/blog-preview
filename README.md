@@ -10,7 +10,7 @@ This challenge was focused on recreating a pixel-perfect blog preview card using
 
 ### 🔗 Live Site
 
-[👉 View Live Project Here](#) <!-- Substitua com seu link do GitHub Pages, Vercel ou Netlify -->
+[👉 View Live Project Here](#https://gabriellima878.github.io/blog-preview/) <!-- Substitua com seu link do GitHub Pages, Vercel ou Netlify -->
 
 ---
 
