@@ -6,11 +6,11 @@ This is my solution to the **Blog Preview Card** challenge on [Frontend Mentor](
 
 ## ✨ Overview
 
-This challenge was focused on recreating a pixel-perfect blog preview card using HTML and CSS. The goal was to match the design for both mobile (375px) and desktop (1440px), and apply responsive best practices.
+This challenge was focused on recreating a pixel-perfect blog preview card using HTML and CSS. The goal was to match the design for both mobile (375px) and desktop (1440px), while applying responsive best practices.
 
 ### 🔗 Live Site
 
-[👉 View Live Project Here](#https://gabriellima878.github.io/blog-preview/) <!-- Substitua com seu link do GitHub Pages, Vercel ou Netlify -->
+[👉 View Live Project Here](https://gabriellima878.github.io/blog-preview/)
 
 ---
 
@@ -18,7 +18,7 @@ This challenge was focused on recreating a pixel-perfect blog preview card using
 
 - HTML5
 - CSS3
-- Figma (modo Dev para precisão de layout)
+- Figma (Dev Mode for layout precision)
 - Mobile-first workflow
 - Flexbox
 
@@ -26,49 +26,49 @@ This challenge was focused on recreating a pixel-perfect blog preview card using
 
 ## ✅ Features
 
-- Layout 100% responsivo para mobile e desktop
-- Hover no título com transição suave
-- Tipografia e espaçamento fiéis ao design do Figma
-- Organização com variáveis CSS para espaçamento e cores
-- Semântico e limpo, pronto para produção
+- Fully responsive layout for mobile and desktop
+- Smooth hover effect on the title
+- Typography and spacing matched to the original Figma design
+- Organized with CSS custom properties for spacing and colors
+- Semantic, clean and production-ready code
 
 ---
 
-## 📐 Layout
+## 📐 Layout Details
 
-As medidas e espaçamentos foram extraídos diretamente do Figma:
+All measurements and spacing were taken directly from the Figma design:
 
 - Mobile: `max-width: 327px`, `padding: 1.25rem`
 - Desktop: `max-width: 384px`, `padding: 1.5rem`
-- Spacing tokens: `--spacing-50` a `--spacing-200`
-- Font: [Figtree](https://fonts.google.com/specimen/Figtree), pesos 500 e 800
+- Spacing tokens used: `--spacing-50` to `--spacing-200`
+- Font: [Figtree](https://fonts.google.com/specimen/Figtree), weights 500 and 800
 
 ---
 
-## 🚀 O que aprendi
+## 🚀 What I Learned
 
-- Como aplicar um layout fiel ao design utilizando `spacing tokens` e `box-model`
-- A importância de utilizar `rem` e `max-width` para responsividade real
-- Como usar o modo Dev do Figma para extrair espaçamentos precisos
-- Reforço de boas práticas com CSS organizado e reutilizável
-
----
-
-## 🤝 Agradecimentos
-
-Desafio por [Frontend Mentor](https://www.frontendmentor.io).  
-Desenvolvido com 💛 por **Gabriel Lima**.
+- How to implement a layout based on spacing tokens and box-model
+- The importance of using `rem` and `max-width` for true responsiveness
+- How to use Figma Dev Mode to extract pixel-perfect values
+- Reinforcing clean and scalable CSS architecture
 
 ---
 
-## 📥 Como rodar localmente
+## 🤝 Acknowledgements
 
-1. Clone o repositório  
-2. Abra `index.html` em qualquer navegador moderno  
-3. Pronto!
+Challenge by [Frontend Mentor](https://www.frontendmentor.io).  
+Coded with 💛 by **Gabriel Lima**.
+
+---
+
+## 📥 How to Run Locally
+
+1. Clone the repository  
+2. Open `index.html` in your browser  
+3. You're good to go!
 
 ---
 
 ## 📣 Feedback
 
-Fique à vontade para me mandar feedback ou sugestões. Sempre aberto a aprender e melhorar!
+Feel free to reach out with feedback or suggestions. Always open to learning and improving!
